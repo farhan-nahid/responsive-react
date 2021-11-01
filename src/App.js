@@ -1,7 +1,12 @@
 import './App.css';
+import Services from './Pages/HomeComponents/Services/Services';
 
 function App() {
-  return <div></div>;
+  return (
+    <>
+      <Services />
+    </>
+  );
 }
 
 export default App;

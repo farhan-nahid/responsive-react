@@ -25,6 +25,11 @@ img {
   margin: 0 auto;
 }
 
+.section__title {
+  text-align: center;
+  margin: 70px 0;
+}
+
 @media only screen and (max-width: 1550px) {
   .container {
     width: 95%;
